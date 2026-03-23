@@ -1,0 +1,10 @@
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	85412153	Ambience			\Krow\Ambience	
+	1551306167	UI			\Default Work Unit\UI	
+	1560169506	Boss			\Krow\Boss	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

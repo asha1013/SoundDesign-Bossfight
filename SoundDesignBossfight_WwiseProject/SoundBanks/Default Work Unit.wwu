@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{21E1334C-4D1A-48D5-A8B9-5AC328ACBA40}" SchemaVersion="123">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{21E1334C-4D1A-48D5-A8B9-5AC328ACBA40}" PersistMode="Standalone">
+			<ChildrenList>
+				<WorkUnit Name="Ambience" ID="{966AB104-8B0D-42FD-9F18-3B06B08728F8}" PersistMode="Reference"/>
+				<WorkUnit Name="Player" ID="{A356A9CD-BBBA-47D4-A035-A715F5F04E5C}" PersistMode="Reference"/>
+				<WorkUnit Name="Boss" ID="{0B19D70E-B778-4BFF-B1A8-10D4965AA2B1}" PersistMode="Reference"/>
+				<WorkUnit Name="UI" ID="{3882A644-03A1-44F9-99E5-A5F779F60454}" PersistMode="Reference"/>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{0D28D5E7-21D7-42CC-83C1-07FF836F25CC}" SchemaVersion="123">
+	<Effects>
+		<WorkUnit Name="Default Work Unit" ID="{0D28D5E7-21D7-42CC-83C1-07FF836F25CC}" PersistMode="Standalone">
+			<ChildrenList>
+				<Effect Name="BossFootstepEQ" ID="{73C3526F-A708-41F2-9565-873AB699E6F0}" PluginName="Wwise Parametric EQ" CompanyID="0" PluginID="105" PluginType="3"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Effects>
+</WwiseDocument>

@@ -1,0 +1,77 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3010096371",
+    "Type": "User",
+    "GUID": "{79089126-C7A5-48E6-B1C7-735314DED9C2}",
+    "Language": "SFX",
+    "Hash": "{5CDF6D95-1C1D-C3EF-AF96-FE24E7BF0CC5}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Ambience\\Ambience_Soundbank",
+    "ShortName": "Ambience_Soundbank",
+    "Path": "Ambience_Soundbank.bnk",
+    "Media": [
+     {
+      "Id": "46441251",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "amb_forest_birdwings.wav",
+      "CachePath": "02/{0259D3F4-8F6C-9973-3382-2CA7F2C020C2}.wem"
+     },
+     {
+      "Id": "692164506",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "amb_forest_leaves.wav",
+      "CachePath": "C3/{C30533E9-BB76-5721-091F-1D9FD8B29A2E}.wem"
+     },
+     {
+      "Id": "1050991778",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "amb_forest_wind.wav",
+      "CachePath": "F7/{F79D66A8-B5D6-D221-DEF8-F0A30F6FF691}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "994146778",
+      "Name": "Play_amb_forest",
+      "ObjectPath": "\\Events\\Default Work Unit\\Ambience\\Play_amb_forest",
+      "GUID": "{445C7D20-9DDA-4EFA-A47D-07E6E1A9FC8E}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "46441251"
+       },
+       {
+        "Id": "692164506"
+       },
+       {
+        "Id": "1050991778"
+       }
+      ]
+     },
+     {
+      "Id": "3443576024",
+      "Name": "Stop_amb_forest",
+      "ObjectPath": "\\Events\\Default Work Unit\\Ambience\\Stop_amb_forest",
+      "GUID": "{4CE259B8-D08A-45D4-83E0-8D28DA3E0BAB}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{BF42BA50-64A8-CF9A-91F1-DB4298DBBD67}"
+ }
+}

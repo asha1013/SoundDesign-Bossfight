@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1708876402	Play_Button_Double			\Default Work Unit\Play_Button_Double	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	916150706	Button Double	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\AF\{AF5702C7-AFAC-0ACE-8C88-7A514A779331}.wem		\Actor-Mixer Hierarchy\UI\UI\Button Double		236472
+

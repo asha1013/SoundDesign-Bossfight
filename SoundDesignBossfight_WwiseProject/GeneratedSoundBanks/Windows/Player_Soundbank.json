@@ -1,0 +1,344 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2081067388",
+    "Type": "User",
+    "GUID": "{FC4002D6-53D7-4D04-B37C-56471A9A08B5}",
+    "Language": "SFX",
+    "Hash": "{F45129C5-ED2E-D8FB-071F-5D9EBEC39D6A}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Player\\Player_Soundbank",
+    "ShortName": "Player_Soundbank",
+    "Path": "Player_Soundbank.bnk",
+    "Media": [
+     {
+      "Id": "10132933",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "DefenseSuccessful.wav",
+      "CachePath": "C6/{C65F336F-2482-646A-00C8-D284B352A01B}.wem"
+     },
+     {
+      "Id": "162338361",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "WhooshSword01.wav",
+      "CachePath": "A2/{A2E2D2A0-996D-026F-6184-80EEE122A94D}.wem"
+     },
+     {
+      "Id": "252331137",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "landing.wav",
+      "CachePath": "9E/{9EFA529B-E164-FA5C-FAA8-6D0F2CFA93E9}.wem"
+     },
+     {
+      "Id": "261110616",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Defense.wav",
+      "CachePath": "EC/{EC41231F-2C7C-9A01-DF2E-F66B075CA409}.wem"
+     },
+     {
+      "Id": "315630721",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "roll.wav",
+      "CachePath": "2B/{2BEE1D10-D086-A578-B693-1848B9C9C8E0}.wem"
+     },
+     {
+      "Id": "316589029",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "hit.wav",
+      "CachePath": "F1/{F1E41B63-A2E1-6C10-9D1A-2ACDC8AD1F6D}.wem"
+     },
+     {
+      "Id": "340680089",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "WhooshSword03.wav",
+      "CachePath": "40/{403B1D66-6E85-D31C-4E0F-57F63F0EA03E}.wem"
+     },
+     {
+      "Id": "350995828",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Weapons, Armor, Handling Equipment, Metal Rattle 01 SND0886.wav",
+      "CachePath": "DD/{DD4507D6-932A-7440-BFD8-20ED014BED11}.wem"
+     },
+     {
+      "Id": "415613583",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Death.wav",
+      "CachePath": "7E/{7EF81CA6-E3FB-BC96-2C33-DF4C2EDA28BD}.wem"
+     },
+     {
+      "Id": "448098095",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "footsteps04.wav",
+      "CachePath": "2F/{2F217D9C-BBC6-C10A-D86A-89A16C09B4FD}.wem"
+     },
+     {
+      "Id": "661216970",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "WhooshSword02.wav",
+      "CachePath": "5B/{5B5D38A5-CBD8-0CC2-BB34-323D9AFA2D36}.wem"
+     },
+     {
+      "Id": "684174794",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "wukong_dodgeRoll.wav",
+      "CachePath": "70/{70D736FF-8896-36B1-FD32-E1F6CA2758B3}.wem"
+     },
+     {
+      "Id": "836994727",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Impact.wav",
+      "CachePath": "20/{2038D10A-97AA-0259-A1A8-248C17ED02ED}.wem"
+     },
+     {
+      "Id": "863496825",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "jump.wav",
+      "CachePath": "3B/{3B91AE84-2B10-B56A-EC65-9507F3B7E1B1}.wem"
+     },
+     {
+      "Id": "889176344",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "footsteps01.wav",
+      "CachePath": "40/{40A3A604-7307-3EB8-F1F7-6453F1F9D95C}.wem"
+     },
+     {
+      "Id": "937749677",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "footsteps02.wav",
+      "CachePath": "50/{509B6798-A70D-B712-0B62-CDB2E73EBC95}.wem"
+     },
+     {
+      "Id": "988040120",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "footsteps05.wav",
+      "CachePath": "D9/{D926C98C-F34E-252E-FAE8-6BCA682EB7C8}.wem"
+     },
+     {
+      "Id": "1038739760",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "footsteps03.wav",
+      "CachePath": "C9/{C961A71B-2478-E4CE-E491-16A3C458E80D}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3803768513",
+      "Name": "Play_BetterRoll",
+      "ObjectPath": "\\Events\\player\\Play_BetterRoll",
+      "GUID": "{A7F5A2FA-1456-4100-A9A3-68852BB82C5D}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.7122978",
+      "DurationMax": "0.79952735",
+      "MediaRefs": [
+       {
+        "Id": "350995828"
+       },
+       {
+        "Id": "684174794"
+       }
+      ]
+     },
+     {
+      "Id": "3791263163",
+      "Name": "Play_BlockStart",
+      "ObjectPath": "\\Events\\player\\Play_BlockStart",
+      "GUID": "{B8B3C1F1-CFAC-4448-83E4-F62518D598C5}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.45739582",
+      "DurationMax": "0.45739582",
+      "MediaRefs": [
+       {
+        "Id": "261110616"
+       }
+      ]
+     },
+     {
+      "Id": "3854639930",
+      "Name": "Play_BlockSuccess",
+      "ObjectPath": "\\Events\\player\\Play_BlockSuccess",
+      "GUID": "{760BBF62-2A4D-477C-B99C-B4E641D4A9B8}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.430875",
+      "DurationMax": "0.430875",
+      "MediaRefs": [
+       {
+        "Id": "10132933"
+       }
+      ]
+     },
+     {
+      "Id": "1172822028",
+      "Name": "Play_Death",
+      "ObjectPath": "\\Events\\player\\Play_Death",
+      "GUID": "{97E08961-3AC7-429F-9F62-60B72C696AA3}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.53699654",
+      "DurationMax": "0.80458575",
+      "MediaRefs": [
+       {
+        "Id": "415613583"
+       }
+      ]
+     },
+     {
+      "Id": "1602358412",
+      "Name": "Play_Footstep",
+      "ObjectPath": "\\Events\\player\\Play_Footstep",
+      "GUID": "{249AC37E-CC7C-4035-946F-E11256772BD9}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.2004375",
+      "DurationMax": "0.27120835",
+      "MediaRefs": [
+       {
+        "Id": "448098095"
+       },
+       {
+        "Id": "889176344"
+       },
+       {
+        "Id": "937749677"
+       },
+       {
+        "Id": "988040120"
+       },
+       {
+        "Id": "1038739760"
+       }
+      ]
+     },
+     {
+      "Id": "2960666077",
+      "Name": "Play_Hit",
+      "ObjectPath": "\\Events\\player\\Play_Hit",
+      "GUID": "{143A8018-3700-46B2-A2E3-CC9AB1CFC048}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.446125",
+      "DurationMax": "0.446125",
+      "MediaRefs": [
+       {
+        "Id": "316589029"
+       }
+      ]
+     },
+     {
+      "Id": "2764105556",
+      "Name": "Play_Impact",
+      "ObjectPath": "\\Events\\player\\Play_Impact",
+      "GUID": "{4A90416C-62E3-453D-AAD8-4FF607E4D85C}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.2788125",
+      "DurationMax": "0.2788125",
+      "MediaRefs": [
+       {
+        "Id": "836994727"
+       }
+      ]
+     },
+     {
+      "Id": "3689126666",
+      "Name": "Play_Jump",
+      "ObjectPath": "\\Events\\player\\Play_Jump",
+      "GUID": "{044B0738-8897-4F1C-A425-13ABC9711355}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.32737842",
+      "DurationMax": "0.32737842",
+      "MediaRefs": [
+       {
+        "Id": "863496825"
+       }
+      ]
+     },
+     {
+      "Id": "2582838277",
+      "Name": "Play_JumpLand",
+      "ObjectPath": "\\Events\\player\\Play_JumpLand",
+      "GUID": "{8220A2E3-9F8F-4907-8055-64882713D118}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.2731124",
+      "DurationMax": "0.2731124",
+      "MediaRefs": [
+       {
+        "Id": "252331137"
+       }
+      ]
+     },
+     {
+      "Id": "2719919427",
+      "Name": "Play_Roll",
+      "ObjectPath": "\\Events\\player\\Play_Roll",
+      "GUID": "{8238B257-67B8-4AC7-8D7F-7D7D1DFD7827}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.27035418",
+      "DurationMax": "0.27035418",
+      "MediaRefs": [
+       {
+        "Id": "315630721"
+       }
+      ]
+     },
+     {
+      "Id": "3352455403",
+      "Name": "Play_SwordWhoosh",
+      "ObjectPath": "\\Events\\player\\Play_SwordWhoosh",
+      "GUID": "{BBDE0DC8-F8B0-483B-BF4B-56309749CDD9}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.33808333",
+      "DurationMax": "0.37091666",
+      "MediaRefs": [
+       {
+        "Id": "162338361"
+       },
+       {
+        "Id": "340680089"
+       },
+       {
+        "Id": "661216970"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{5CF9511D-DDAA-8E8C-7A00-9DE1EBA60171}"
+ }
+}

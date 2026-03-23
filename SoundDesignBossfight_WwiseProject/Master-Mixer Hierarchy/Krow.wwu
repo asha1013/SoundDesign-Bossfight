@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{EAC857F4-E642-4C66-A438-E760A8F797E2}" SchemaVersion="123">
+	<Busses>
+		<WorkUnit Name="Krow" ID="{EAC857F4-E642-4C66-A438-E760A8F797E2}" PersistMode="Standalone">
+			<ChildrenList>
+				<Bus Name="Ambience" ID="{79F28313-D889-42F7-9F38-C73C8ABD4778}">
+					<ReferenceList>
+						<Reference Name="AudioDevice" PluginName="System" CompanyID="0" PluginID="174" PluginType="7">
+							<ObjectRef Name="System" ID="{012B81FB-5DAC-4B7C-A105-DF582B5DD363}" WorkUnitID="{F4A73B47-468D-4517-8621-8A6C68F77547}"/>
+						</Reference>
+					</ReferenceList>
+				</Bus>
+				<Bus Name="Boss" ID="{F5913EFF-046B-446B-B428-37780EA86D42}">
+					<ReferenceList>
+						<Reference Name="AudioDevice" PluginName="System" CompanyID="0" PluginID="174" PluginType="7">
+							<ObjectRef Name="System" ID="{012B81FB-5DAC-4B7C-A105-DF582B5DD363}" WorkUnitID="{F4A73B47-468D-4517-8621-8A6C68F77547}"/>
+						</Reference>
+					</ReferenceList>
+				</Bus>
+			</ChildrenList>
+		</WorkUnit>
+	</Busses>
+</WwiseDocument>

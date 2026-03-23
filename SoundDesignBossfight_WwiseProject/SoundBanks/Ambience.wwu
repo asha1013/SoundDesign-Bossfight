@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{966AB104-8B0D-42FD-9F18-3B06B08728F8}" SchemaVersion="123" RootDocumentID="{21E1334C-4D1A-48D5-A8B9-5AC328ACBA40}" ParentDocumentID="{21E1334C-4D1A-48D5-A8B9-5AC328ACBA40}">
+	<SoundBanks>
+		<WorkUnit Name="Ambience" ID="{966AB104-8B0D-42FD-9F18-3B06B08728F8}" OwnerID="{21E1334C-4D1A-48D5-A8B9-5AC328ACBA40}" PersistMode="Nested">
+			<ChildrenList>
+				<SoundBank Name="Ambience_Soundbank" ID="{79089126-C7A5-48E6-B1C7-735314DED9C2}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Stop_amb_forest" ID="{4CE259B8-D08A-45D4-83E0-8D28DA3E0BAB}" WorkUnitID="{DCE87EC1-07CC-4801-B6C7-633835A2ED87}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Ambience" ID="{DCE87EC1-07CC-4801-B6C7-633835A2ED87}" WorkUnitID="{DCE87EC1-07CC-4801-B6C7-633835A2ED87}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_amb_forest" ID="{445C7D20-9DDA-4EFA-A47D-07E6E1A9FC8E}" WorkUnitID="{DCE87EC1-07CC-4801-B6C7-633835A2ED87}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

@@ -1,0 +1,47 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2454045173",
+    "Type": "User",
+    "GUID": "{38E6E755-CF7B-4B64-BD23-43E181C60458}",
+    "Language": "SFX",
+    "Hash": "{DCD2A78A-5032-537B-5E05-959F232E711B}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\UI\\UI_Soundbank",
+    "ShortName": "UI_Soundbank",
+    "Path": "UI_Soundbank.bnk",
+    "Media": [
+     {
+      "Id": "916150706",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Button Double.wav",
+      "CachePath": "AF/{AF5702C7-AFAC-0ACE-8C88-7A514A779331}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1708876402",
+      "Name": "Play_Button_Double",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Button_Double",
+      "GUID": "{602B3AF9-DCB5-4856-BE6F-E23719A732DD}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.34",
+      "DurationMax": "1.34",
+      "MediaRefs": [
+       {
+        "Id": "916150706"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{59E04EB1-2046-436C-93BA-5EFD15FA0DD6}"
+ }
+}

@@ -1,0 +1,9 @@
+Event	ID	Name			Wwise Object Path	Notes
+	994146778	Play_amb_forest			\Krow\Play_amb_forest	
+	3443576024	Stop_amb_forest			\Krow\Stop_amb_forest	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	46441251	amb_forest_birdwings	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\02\{0259D3F4-8F6C-9973-3382-2CA7F2C020C2}.wem		\Actor-Mixer Hierarchy\Krow\Amb\amb_forest\amb_forest_birdwings		2977120
+	692164506	amb_forest_leaves	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\C3\{C30533E9-BB76-5721-091F-1D9FD8B29A2E}.wem		\Actor-Mixer Hierarchy\Krow\Amb\amb_forest\amb_forest_leaves		2977168
+	1050991778	amb_forest_wind	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\F7\{F79D66A8-B5D6-D221-DEF8-F0A30F6FF691}.wem		\Actor-Mixer Hierarchy\Krow\Amb\amb_forest\amb_forest_wind		2977168
+

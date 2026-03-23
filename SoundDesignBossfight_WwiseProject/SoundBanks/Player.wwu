@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A356A9CD-BBBA-47D4-A035-A715F5F04E5C}" SchemaVersion="123" RootDocumentID="{21E1334C-4D1A-48D5-A8B9-5AC328ACBA40}" ParentDocumentID="{21E1334C-4D1A-48D5-A8B9-5AC328ACBA40}">
+	<SoundBanks>
+		<WorkUnit Name="Player" ID="{A356A9CD-BBBA-47D4-A035-A715F5F04E5C}" OwnerID="{21E1334C-4D1A-48D5-A8B9-5AC328ACBA40}" PersistMode="Nested">
+			<ChildrenList>
+				<SoundBank Name="Player_Soundbank" ID="{FC4002D6-53D7-4D04-B37C-56471A9A08B5}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_Footstep" ID="{249AC37E-CC7C-4035-946F-E11256772BD9}" WorkUnitID="{E4A8B59B-0D26-4511-BE48-71C22F3AB45B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_BetterRoll" ID="{A7F5A2FA-1456-4100-A9A3-68852BB82C5D}" WorkUnitID="{E4A8B59B-0D26-4511-BE48-71C22F3AB45B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Death" ID="{97E08961-3AC7-429F-9F62-60B72C696AA3}" WorkUnitID="{E4A8B59B-0D26-4511-BE48-71C22F3AB45B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_BlockStart" ID="{B8B3C1F1-CFAC-4448-83E4-F62518D598C5}" WorkUnitID="{E4A8B59B-0D26-4511-BE48-71C22F3AB45B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Impact" ID="{4A90416C-62E3-453D-AAD8-4FF607E4D85C}" WorkUnitID="{E4A8B59B-0D26-4511-BE48-71C22F3AB45B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Hit" ID="{143A8018-3700-46B2-A2E3-CC9AB1CFC048}" WorkUnitID="{E4A8B59B-0D26-4511-BE48-71C22F3AB45B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_BlockSuccess" ID="{760BBF62-2A4D-477C-B99C-B4E641D4A9B8}" WorkUnitID="{E4A8B59B-0D26-4511-BE48-71C22F3AB45B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_SwordWhoosh" ID="{BBDE0DC8-F8B0-483B-BF4B-56309749CDD9}" WorkUnitID="{E4A8B59B-0D26-4511-BE48-71C22F3AB45B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_JumpLand" ID="{8220A2E3-9F8F-4907-8055-64882713D118}" WorkUnitID="{E4A8B59B-0D26-4511-BE48-71C22F3AB45B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Roll" ID="{8238B257-67B8-4AC7-8D7F-7D7D1DFD7827}" WorkUnitID="{E4A8B59B-0D26-4511-BE48-71C22F3AB45B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Jump" ID="{044B0738-8897-4F1C-A425-13ABC9711355}" WorkUnitID="{E4A8B59B-0D26-4511-BE48-71C22F3AB45B}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

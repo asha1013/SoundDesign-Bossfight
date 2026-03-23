@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{3882A644-03A1-44F9-99E5-A5F779F60454}" SchemaVersion="123" RootDocumentID="{21E1334C-4D1A-48D5-A8B9-5AC328ACBA40}" ParentDocumentID="{21E1334C-4D1A-48D5-A8B9-5AC328ACBA40}">
+	<SoundBanks>
+		<WorkUnit Name="UI" ID="{3882A644-03A1-44F9-99E5-A5F779F60454}" OwnerID="{21E1334C-4D1A-48D5-A8B9-5AC328ACBA40}" PersistMode="Nested">
+			<ChildrenList>
+				<SoundBank Name="UI_Soundbank" ID="{38E6E755-CF7B-4B64-BD23-43E181C60458}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_Button_Double" ID="{602B3AF9-DCB5-4856-BE6F-E23719A732DD}" WorkUnitID="{DCCCF2C2-BEE4-4623-B358-4C19E5C26B11}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

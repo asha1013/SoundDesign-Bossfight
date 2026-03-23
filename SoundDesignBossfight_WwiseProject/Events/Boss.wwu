@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{9998284B-5DDC-493A-A992-B07343874233}" SchemaVersion="123" RootDocumentID="{DCCCF2C2-BEE4-4623-B358-4C19E5C26B11}" ParentDocumentID="{DCCCF2C2-BEE4-4623-B358-4C19E5C26B11}">
+	<Events>
+		<WorkUnit Name="Boss" ID="{9998284B-5DDC-493A-A992-B07343874233}" OwnerID="{DCCCF2C2-BEE4-4623-B358-4C19E5C26B11}" PersistMode="Nested">
+			<ChildrenList>
+				<Event Name="Play_boss_fs" ID="{170019F9-CE93-470E-91C6-506E777C905C}">
+					<ChildrenList>
+						<Action Name="" ID="{68F2F1D7-36F5-4398-8B72-1E7B719BBB62}" ShortID="891884951">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="boss_footstep" ID="{2CCC4784-A887-4D7C-A58E-233D5CAD19D8}" WorkUnitID="{B059FC02-6994-44A4-8084-6941A10760D6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_boss_fireball" ID="{B865879A-DCDD-46CB-882F-4CC1D2F4E66A}">
+					<ChildrenList>
+						<Action Name="" ID="{A1D74A01-642F-414C-8F0F-32774D01A78A}" ShortID="60193906">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="boss_fireball" ID="{D11DEEBF-2F23-48F9-8D3B-27A9EFD3BE8C}" WorkUnitID="{B059FC02-6994-44A4-8084-6941A10760D6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_boss_swing_strong" ID="{67410114-CE6C-470D-A3AA-FC617476DD51}">
+					<ChildrenList>
+						<Action Name="" ID="{B48BF00E-40C5-4129-AEF7-4F2F8C13CCF4}" ShortID="545326772">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="boss_swing_strong" ID="{9FF8FBF0-5976-420B-8733-F6F560B9961F}" WorkUnitID="{B059FC02-6994-44A4-8084-6941A10760D6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_boss_breath" ID="{B6D9355E-CE70-4E06-90BE-A4B83DD82D41}">
+					<ChildrenList>
+						<Action Name="" ID="{B10C7675-85B3-4B91-A1C5-908A63903D42}" ShortID="1068876026">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="boss_breath" ID="{2F991194-B5AA-47BD-AE67-5D57A036ADF4}" WorkUnitID="{B059FC02-6994-44A4-8084-6941A10760D6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_boss_death" ID="{07294840-D29C-48B4-853D-4BECA8C58A52}">
+					<ChildrenList>
+						<Action Name="" ID="{37C9A27D-F9B5-414D-B7F4-567958FCCE33}" ShortID="525289380">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="boss_death" ID="{C172D212-1FA4-4A1D-BAE3-DC48D7867A38}" WorkUnitID="{B059FC02-6994-44A4-8084-6941A10760D6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_boss_swing_normal" ID="{5D1230B2-A986-44F7-BC64-29672805FE56}">
+					<ChildrenList>
+						<Action Name="" ID="{C8222262-9092-459A-8851-53E7349BFF90}" ShortID="389169516">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="boss_swing_normal" ID="{A78290B5-FA03-4E8D-840B-0C0DE434347F}" WorkUnitID="{B059FC02-6994-44A4-8084-6941A10760D6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_boss_stun" ID="{05C26751-2E43-4E22-9C58-28725932D92C}">
+					<ChildrenList>
+						<Action Name="" ID="{8C7B16DA-D7FE-46F5-92A6-9873C6E2764F}" ShortID="312501283">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="boss_stun" ID="{19B65F04-9977-4A28-949F-CDB69FEBB00C}" WorkUnitID="{B059FC02-6994-44A4-8084-6941A10760D6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_boss_hit_player" ID="{77C65D61-066D-4F20-AE18-2D339ADFCBAF}">
+					<ChildrenList>
+						<Action Name="" ID="{7DA6BAB5-BD36-4897-A3CC-7CD48985275F}" ShortID="971715914">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="boss_hit_player" ID="{84D693BD-B126-496F-85E3-7AAFDAAAACE7}" WorkUnitID="{B059FC02-6994-44A4-8084-6941A10760D6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_boss_hit_ground" ID="{3E25FBD3-9D06-425F-8A8A-2966365A937D}">
+					<ChildrenList>
+						<Action Name="" ID="{4230D3D8-BB9B-440B-8C0E-86ABAC7E12FD}" ShortID="341965240">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="boss_hit_ground" ID="{F47AA7BB-438D-4CFF-AC05-D462E920E089}" WorkUnitID="{B059FC02-6994-44A4-8084-6941A10760D6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

@@ -1,0 +1,33 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1172822028	Play_Death			\player\Play_Death	
+	1602358412	Play_Footstep			\player\Play_Footstep	
+	2582838277	Play_JumpLand			\player\Play_JumpLand	
+	2719919427	Play_Roll			\player\Play_Roll	
+	2764105556	Play_Impact			\player\Play_Impact	
+	2960666077	Play_Hit			\player\Play_Hit	
+	3352455403	Play_SwordWhoosh			\player\Play_SwordWhoosh	
+	3689126666	Play_Jump			\player\Play_Jump	
+	3791263163	Play_BlockStart			\player\Play_BlockStart	
+	3803768513	Play_BetterRoll			\player\Play_BetterRoll	
+	3854639930	Play_BlockSuccess			\player\Play_BlockSuccess	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	10132933	BlockSuccess	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\C6\{C65F336F-2482-646A-00C8-D284B352A01B}.wem		\Actor-Mixer Hierarchy\player\BlockSuccess		41460
+	162338361	WhooshSword01	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\A2\{A2E2D2A0-996D-026F-6184-80EEE122A94D}.wem		\Actor-Mixer Hierarchy\player\Sword whoosh\WhooshSword01		32552
+	252331137	landing	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\9E\{9EFA529B-E164-FA5C-FAA8-6D0F2CFA93E9}.wem		\Actor-Mixer Hierarchy\player\landing		26314
+	261110616	BlockStart	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\EC\{EC41231F-2C7C-9A01-DF2E-F66B075CA409}.wem		\Actor-Mixer Hierarchy\player\BlockStart		44006
+	315630721	roll	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\2B\{2BEE1D10-D086-A578-B693-1848B9C9C8E0}.wem		\Actor-Mixer Hierarchy\player\roll		26050
+	316589029	hit	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\F1\{F1E41B63-A2E1-6C10-9D1A-2ACDC8AD1F6D}.wem		\Actor-Mixer Hierarchy\player\hit		42924
+	340680089	WhooshSword03	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\40\{403B1D66-6E85-D31C-4E0F-57F63F0EA03E}.wem		\Actor-Mixer Hierarchy\player\Sword whoosh\WhooshSword03		35704
+	350995828	Weapons, Armor, Handling Equipment, Metal Rattle 01 SND0886	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\DD\{DD4507D6-932A-7440-BFD8-20ED014BED11}.wem		\Actor-Mixer Hierarchy\player\BetterRoll\Weapons, Armor, Handling Equipment, Metal Rattle 01 SND0886		144988
+	415613583	Death	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\7E\{7EF81CA6-E3FB-BC96-2C33-DF4C2EDA28BD}.wem		\Actor-Mixer Hierarchy\player\Death		63198
+	448098095	footsteps04	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\2F\{2F217D9C-BBC6-C10A-D86A-89A16C09B4FD}.wem		\Actor-Mixer Hierarchy\player\Footsteps\footsteps04		23254
+	661216970	WhooshSword02	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\5B\{5B5D38A5-CBD8-0CC2-BB34-323D9AFA2D36}.wem		\Actor-Mixer Hierarchy\player\Sword whoosh\WhooshSword02		32712
+	684174794	wukong_dodgeRoll	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\70\{70D736FF-8896-36B1-FD32-E1F6CA2758B3}.wem		\Actor-Mixer Hierarchy\player\BetterRoll\wukong_dodgeRoll		100324
+	836994727	Impact	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\20\{2038D10A-97AA-0259-A1A8-248C17ED02ED}.wem		\Actor-Mixer Hierarchy\player\Impact		26862
+	863496825	jump	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\3B\{3B91AE84-2B10-B56A-EC65-9507F3B7E1B1}.wem		\Actor-Mixer Hierarchy\player\jump		31526
+	889176344	footsteps01	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\40\{40A3A604-7307-3EB8-F1F7-6453F1F9D95C}.wem		\Actor-Mixer Hierarchy\player\Footsteps\footsteps01		19338
+	937749677	footsteps02	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\50\{509B6798-A70D-B712-0B62-CDB2E73EBC95}.wem		\Actor-Mixer Hierarchy\player\Footsteps\footsteps02		25042
+	988040120	footsteps05	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\D9\{D926C98C-F34E-252E-FAE8-6BCA682EB7C8}.wem		\Actor-Mixer Hierarchy\player\Footsteps\footsteps05		26132
+	1038739760	footsteps03	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\C9\{C961A71B-2478-E4CE-E491-16A3C458E80D}.wem		\Actor-Mixer Hierarchy\player\Footsteps\footsteps03		25192
+

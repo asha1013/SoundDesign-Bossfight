@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{DCCCF2C2-BEE4-4623-B358-4C19E5C26B11}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{DCCCF2C2-BEE4-4623-B358-4C19E5C26B11}" PersistMode="Standalone">
+			<ChildrenList>
+				<WorkUnit Name="Ambience" ID="{DCE87EC1-07CC-4801-B6C7-633835A2ED87}" PersistMode="Reference"/>
+				<WorkUnit Name="Boss" ID="{9998284B-5DDC-493A-A992-B07343874233}" PersistMode="Reference"/>
+				<Event Name="Play_Button_Double" ID="{602B3AF9-DCB5-4856-BE6F-E23719A732DD}">
+					<ChildrenList>
+						<Action Name="" ID="{63562B0C-BB59-4A23-9AEA-2ECCF3CD8CF6}" ShortID="641096662">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Button Double" ID="{BDCECC10-B130-40DE-943E-CEEE8E0ACC81}" WorkUnitID="{88AB75A6-0BFD-41B9-AB13-24F6F4718BD7}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

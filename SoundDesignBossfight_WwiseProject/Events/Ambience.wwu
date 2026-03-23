@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{DCE87EC1-07CC-4801-B6C7-633835A2ED87}" SchemaVersion="123" RootDocumentID="{DCCCF2C2-BEE4-4623-B358-4C19E5C26B11}" ParentDocumentID="{DCCCF2C2-BEE4-4623-B358-4C19E5C26B11}">
+	<Events>
+		<WorkUnit Name="Ambience" ID="{DCE87EC1-07CC-4801-B6C7-633835A2ED87}" OwnerID="{DCCCF2C2-BEE4-4623-B358-4C19E5C26B11}" PersistMode="Nested">
+			<ChildrenList>
+				<Event Name="Play_amb_forest" ID="{445C7D20-9DDA-4EFA-A47D-07E6E1A9FC8E}">
+					<ChildrenList>
+						<Action Name="" ID="{078D07DF-5A3F-4765-ACDE-D4B50301C154}" ShortID="283911095">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="amb_forest" ID="{6EFF1D6D-20FC-4035-A527-E2603F5445D4}" WorkUnitID="{B059FC02-6994-44A4-8084-6941A10760D6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_amb_forest" ID="{4CE259B8-D08A-45D4-83E0-8D28DA3E0BAB}">
+					<ChildrenList>
+						<Action Name="" ID="{1117B461-9E79-48D4-BD73-7AE990E1D184}" ShortID="547434215">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="amb_forest" ID="{6EFF1D6D-20FC-4035-A527-E2603F5445D4}" WorkUnitID="{B059FC02-6994-44A4-8084-6941A10760D6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

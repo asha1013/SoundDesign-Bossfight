@@ -1,0 +1,25 @@
+Event	ID	Name			Wwise Object Path	Notes
+	484923188	Play_boss_swing_normal			\Default Work Unit\Boss\Play_boss_swing_normal	
+	1075280761	Play_boss_fs			\Default Work Unit\Boss\Play_boss_fs	
+	1517899771	Play_boss_fireball			\Default Work Unit\Boss\Play_boss_fireball	
+	2184122688	Play_boss_stun			\Default Work Unit\Boss\Play_boss_stun	
+	3693973518	Play_boss_breath			\Default Work Unit\Boss\Play_boss_breath	
+	3695176782	Play_boss_death			\Default Work Unit\Boss\Play_boss_death	
+	3826679396	Play_boss_swing_strong			\Default Work Unit\Boss\Play_boss_swing_strong	
+	3974211443	Play_boss_hit_ground			\Default Work Unit\Boss\Play_boss_hit_ground	
+	4153243205	Play_boss_hit_player			\Default Work Unit\Boss\Play_boss_hit_player	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	69030858	boss_swing_strong	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\03\{03CB3C37-5314-3FC2-8930-F5D4F9D82A45}.wem		\Actor-Mixer Hierarchy\Krow\Boss\boss_swing_strong		231092
+	111220892	boss_breath_growl_01	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\58\{580D30C6-5EFA-4753-F287-C9F17A5E423E}.wem		\Actor-Mixer Hierarchy\Krow\Boss\boss_breath\boss_breath_growl\boss_breath_growl_01		388520
+	124012624	boss_hit_ground	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\D9\{D9266CB5-8E18-05D6-E659-C09E6E3E0693}.wem		\Actor-Mixer Hierarchy\Krow\Boss\boss_hit_ground		48000
+	235045121	boss_swing_normal	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\D3\{D3F2F20F-0F29-8D19-9454-C54942B1156D}.wem		\Actor-Mixer Hierarchy\Krow\Boss\boss_swing_normal		160512
+	247925652	boss_fs_06	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\F5\{F54B67C3-4006-2709-3946-B55F4EECC29D}.wem		\Actor-Mixer Hierarchy\Krow\Boss\boss_footstep\boss_fs_06		106256
+	305360201	boss_stun	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\BF\{BF084306-54FC-6FB4-2FC7-AE81BAD7A204}.wem		\Actor-Mixer Hierarchy\Krow\Boss\boss_stun		226552
+	764495570	boss_fireball_crackle	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\B5\{B5EB506B-6781-82BA-892A-1E847B4438EE}.wem		\Actor-Mixer Hierarchy\Krow\Boss\boss_fireball\boss_fireball_crackle		578260
+	800513347	boss_hit_player	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\41\{41B77EC2-C061-84C1-C40E-5BFFEE6525E7}.wem		\Actor-Mixer Hierarchy\Krow\Boss\boss_hit_player		52120
+	826244056	boss_death	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\65\{652E664A-10BE-54CA-E6A7-1A8394C39C7A}.wem		\Actor-Mixer Hierarchy\Krow\Boss\boss_death		290848
+	906243574	boss_fireball_whoosh	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\9B\{9B8E8CDA-BB3B-346C-216E-A3053869416C}.wem		\Actor-Mixer Hierarchy\Krow\Boss\boss_fireball\boss_fireball_whoosh		578260
+	907903524	boss_breath_growl_03	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\D5\{D54A2DB5-B5F7-7936-7B57-AB371E7B9479}.wem		\Actor-Mixer Hierarchy\Krow\Boss\boss_breath\boss_breath_growl\boss_breath_growl_03		398916
+	1051298173	boss_breath_huff	C:\Users\ultim\Desktop\UNITY 2024\SoundDesignBossfight\SoundDesignBossfight_WwiseProject\.cache\10\{10B8B7B2-C1A7-44E1-23C0-ABD4D6AA5A00}.wem		\Actor-Mixer Hierarchy\Krow\Boss\boss_breath\boss_breath_huff		401888
+

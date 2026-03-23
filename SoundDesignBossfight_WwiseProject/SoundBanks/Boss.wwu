@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{0B19D70E-B778-4BFF-B1A8-10D4965AA2B1}" SchemaVersion="123" RootDocumentID="{21E1334C-4D1A-48D5-A8B9-5AC328ACBA40}" ParentDocumentID="{21E1334C-4D1A-48D5-A8B9-5AC328ACBA40}">
+	<SoundBanks>
+		<WorkUnit Name="Boss" ID="{0B19D70E-B778-4BFF-B1A8-10D4965AA2B1}" OwnerID="{21E1334C-4D1A-48D5-A8B9-5AC328ACBA40}" PersistMode="Nested">
+			<ChildrenList>
+				<SoundBank Name="Boss_Soundbank" ID="{CCD6D025-A0DF-4CD4-964B-2B9288CD3DE1}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_boss_hit_ground" ID="{3E25FBD3-9D06-425F-8A8A-2966365A937D}" WorkUnitID="{9998284B-5DDC-493A-A992-B07343874233}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_boss_swing_normal" ID="{5D1230B2-A986-44F7-BC64-29672805FE56}" WorkUnitID="{9998284B-5DDC-493A-A992-B07343874233}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_boss_fireball" ID="{B865879A-DCDD-46CB-882F-4CC1D2F4E66A}" WorkUnitID="{9998284B-5DDC-493A-A992-B07343874233}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_boss_swing_strong" ID="{67410114-CE6C-470D-A3AA-FC617476DD51}" WorkUnitID="{9998284B-5DDC-493A-A992-B07343874233}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_boss_fs" ID="{170019F9-CE93-470E-91C6-506E777C905C}" WorkUnitID="{9998284B-5DDC-493A-A992-B07343874233}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_boss_death" ID="{07294840-D29C-48B4-853D-4BECA8C58A52}" WorkUnitID="{9998284B-5DDC-493A-A992-B07343874233}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Boss" ID="{9998284B-5DDC-493A-A992-B07343874233}" WorkUnitID="{9998284B-5DDC-493A-A992-B07343874233}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_boss_breath" ID="{B6D9355E-CE70-4E06-90BE-A4B83DD82D41}" WorkUnitID="{9998284B-5DDC-493A-A992-B07343874233}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_boss_stun" ID="{05C26751-2E43-4E22-9C58-28725932D92C}" WorkUnitID="{9998284B-5DDC-493A-A992-B07343874233}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_boss_hit_player" ID="{77C65D61-066D-4F20-AE18-2D339ADFCBAF}" WorkUnitID="{9998284B-5DDC-493A-A992-B07343874233}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

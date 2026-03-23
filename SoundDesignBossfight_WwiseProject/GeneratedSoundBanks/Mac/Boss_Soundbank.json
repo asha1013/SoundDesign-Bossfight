@@ -1,0 +1,256 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1090276996",
+    "Type": "User",
+    "GUID": "{CCD6D025-A0DF-4CD4-964B-2B9288CD3DE1}",
+    "Language": "SFX",
+    "Hash": "{50992925-7994-6FF7-0629-A33A6B6E035D}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Boss\\Boss_Soundbank",
+    "ShortName": "Boss_Soundbank",
+    "Path": "Boss_Soundbank.bnk",
+    "Media": [
+     {
+      "Id": "69030858",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "boss_swing_strong.wav",
+      "CachePath": "03/{03CB3C37-5314-3FC2-8930-F5D4F9D82A45}.wem"
+     },
+     {
+      "Id": "111220892",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "boss_breathing_growl_01.wav",
+      "CachePath": "58/{580D30C6-5EFA-4753-F287-C9F17A5E423E}.wem"
+     },
+     {
+      "Id": "124012624",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "boss_hit_ground.wav",
+      "CachePath": "D9/{D9266CB5-8E18-05D6-E659-C09E6E3E0693}.wem"
+     },
+     {
+      "Id": "235045121",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "boss_swing_normal.wav",
+      "CachePath": "D3/{D3F2F20F-0F29-8D19-9454-C54942B1156D}.wem"
+     },
+     {
+      "Id": "247925652",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "boss_fs.wav",
+      "CachePath": "F5/{F54B67C3-4006-2709-3946-B55F4EECC29D}.wem"
+     },
+     {
+      "Id": "305360201",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "boss_stun.wav",
+      "CachePath": "BF/{BF084306-54FC-6FB4-2FC7-AE81BAD7A204}.wem"
+     },
+     {
+      "Id": "764495570",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "boss_fireball_crackle.wav",
+      "CachePath": "B5/{B5EB506B-6781-82BA-892A-1E847B4438EE}.wem"
+     },
+     {
+      "Id": "800513347",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "boss_hit_player.wav",
+      "CachePath": "41/{41B77EC2-C061-84C1-C40E-5BFFEE6525E7}.wem"
+     },
+     {
+      "Id": "826244056",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "boss_death.wav",
+      "CachePath": "65/{652E664A-10BE-54CA-E6A7-1A8394C39C7A}.wem"
+     },
+     {
+      "Id": "906243574",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "boss_fireball_whoosh.wav",
+      "CachePath": "9B/{9B8E8CDA-BB3B-346C-216E-A3053869416C}.wem"
+     },
+     {
+      "Id": "907903524",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "boss_breathing_growl_01.wav",
+      "CachePath": "D5/{D54A2DB5-B5F7-7936-7B57-AB371E7B9479}.wem"
+     },
+     {
+      "Id": "1051298173",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "boss_breathing_huff.wav",
+      "CachePath": "10/{10B8B7B2-C1A7-44E1-23C0-ABD4D6AA5A00}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3693973518",
+      "Name": "Play_boss_breath",
+      "ObjectPath": "\\Events\\Default Work Unit\\Boss\\Play_boss_breath",
+      "GUID": "{B6D9355E-CE70-4E06-90BE-A4B83DD82D41}",
+      "DurationType": "OneShot",
+      "DurationMin": "2.2777302",
+      "DurationMax": "2.5231462",
+      "MediaRefs": [
+       {
+        "Id": "111220892"
+       },
+       {
+        "Id": "907903524"
+       },
+       {
+        "Id": "1051298173"
+       }
+      ]
+     },
+     {
+      "Id": "3695176782",
+      "Name": "Play_boss_death",
+      "ObjectPath": "\\Events\\Default Work Unit\\Boss\\Play_boss_death",
+      "GUID": "{07294840-D29C-48B4-853D-4BECA8C58A52}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.6482539",
+      "DurationMax": "1.6482539",
+      "MediaRefs": [
+       {
+        "Id": "826244056"
+       }
+      ]
+     },
+     {
+      "Id": "1517899771",
+      "Name": "Play_boss_fireball",
+      "ObjectPath": "\\Events\\Default Work Unit\\Boss\\Play_boss_fireball",
+      "GUID": "{B865879A-DCDD-46CB-882F-4CC1D2F4E66A}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.2775736",
+      "DurationMax": "3.2775736",
+      "MediaRefs": [
+       {
+        "Id": "764495570"
+       },
+       {
+        "Id": "906243574"
+       }
+      ]
+     },
+     {
+      "Id": "1075280761",
+      "Name": "Play_boss_fs",
+      "ObjectPath": "\\Events\\Default Work Unit\\Boss\\Play_boss_fs",
+      "GUID": "{170019F9-CE93-470E-91C6-506E777C905C}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.520892",
+      "DurationMax": "0.8126595",
+      "MediaRefs": [
+       {
+        "Id": "247925652"
+       }
+      ]
+     },
+     {
+      "Id": "3974211443",
+      "Name": "Play_boss_hit_ground",
+      "ObjectPath": "\\Events\\Default Work Unit\\Boss\\Play_boss_hit_ground",
+      "GUID": "{3E25FBD3-9D06-425F-8A8A-2966365A937D}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.27130076",
+      "DurationMax": "0.27130076",
+      "MediaRefs": [
+       {
+        "Id": "124012624"
+       }
+      ]
+     },
+     {
+      "Id": "4153243205",
+      "Name": "Play_boss_hit_player",
+      "ObjectPath": "\\Events\\Default Work Unit\\Boss\\Play_boss_hit_player",
+      "GUID": "{77C65D61-066D-4F20-AE18-2D339ADFCBAF}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.2949248",
+      "DurationMax": "0.2949248",
+      "MediaRefs": [
+       {
+        "Id": "800513347"
+       }
+      ]
+     },
+     {
+      "Id": "2184122688",
+      "Name": "Play_boss_stun",
+      "ObjectPath": "\\Events\\Default Work Unit\\Boss\\Play_boss_stun",
+      "GUID": "{05C26751-2E43-4E22-9C58-28725932D92C}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.2837641",
+      "DurationMax": "1.2837641",
+      "MediaRefs": [
+       {
+        "Id": "305360201"
+       }
+      ]
+     },
+     {
+      "Id": "484923188",
+      "Name": "Play_boss_swing_normal",
+      "ObjectPath": "\\Events\\Default Work Unit\\Boss\\Play_boss_swing_normal",
+      "GUID": "{5D1230B2-A986-44F7-BC64-29672805FE56}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.90938777",
+      "DurationMax": "0.90938777",
+      "MediaRefs": [
+       {
+        "Id": "235045121"
+       }
+      ]
+     },
+     {
+      "Id": "3826679396",
+      "Name": "Play_boss_swing_strong",
+      "ObjectPath": "\\Events\\Default Work Unit\\Boss\\Play_boss_swing_strong",
+      "GUID": "{67410114-CE6C-470D-A3AA-FC617476DD51}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.3095012",
+      "DurationMax": "1.3095012",
+      "MediaRefs": [
+       {
+        "Id": "69030858"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{805A8237-D807-F911-DE2F-E7BC5297706C}"
+ }
+}
